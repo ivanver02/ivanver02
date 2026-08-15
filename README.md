@@ -4,7 +4,7 @@ I am finishing a 372 ECTS double degree in Mathematics and Computer Engineering.
 
 ## Relevant Projects
 
-- [3D Semantic Fusion with Gaussian Splatting](https://github.com/ivanver02/semantic-fusion-3dgs) - Research project in 3D computer vision, focused on semantic class segmentation by labelling 3D Gaussians from 2D masks.
+- [3D Semantic Lifting with Gaussian Splatting](https://github.com/ivanver02/semantic-fusion-3dgs) - Research project in 3D computer vision, focused on semantic class segmentation by labelling 3D Gaussians from 2D masks.
 
 - [Hospital Gait Analysis Backend](https://github.com/ivanver02/markerless-gait-analysis-backend) - Server code for multi-camera gait analysis. It involves 3D reconstruction and ensembling 2D methods.
 
